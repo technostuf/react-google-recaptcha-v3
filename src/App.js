@@ -9,7 +9,7 @@ import {
 function App() {
   return (
     <div className="App">
-      <GoogleReCaptchaProvider reCaptchaKey="6Lf2Q4AfAAAAAL-dSamsXVZYF3SaAThLS8UAV97o">
+      <GoogleReCaptchaProvider reCaptchaKey="[Your recaptcha key]">
         <GoogleRecaptchaComponent />
       </GoogleReCaptchaProvider>
     </div>
